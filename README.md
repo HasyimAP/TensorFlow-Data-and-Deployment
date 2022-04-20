@@ -2,7 +2,7 @@
 
 This repository is a documentation for all of my assignment code, including the raw code for the specialization certification "TensorFlow: Data and Deployment" on Coursera *(Code only, no quizzes)*
 
-
+You can also find the raw (unedited) code on this [*source*](https://github.com/https-deeplearning-ai/tensorflow-2-public.git)
 
 ### IMPORTANT NOTE!!!
 #### The code provided in this repository is only for helping those who may get stuck at any point of time in the course. It is strongly advised that no one should just copy the solutions (violation of Coursera Honor Code) presented here.
