@@ -1,1 +1,0 @@
-File name on coursera: TF_Serving_Week_2_Exercise_Question.ipynb
