@@ -4,6 +4,8 @@ This repository is a documentation for all of my code, including the raw for the
 
 You can also find the raw (unedited) code on this [*source*](https://github.com/https-deeplearning-ai/tensorflow-2-public.git)
 
+#### Proof of my certification [here](https://coursera.org/share/3e4027c5496b94a3b25495e9d2b68fc7)
+
 ### IMPORTANT NOTE!!!
 #### The code provided in this repository is only for helping those who may get stuck at any point of time in the course. It is strongly advised that no one should just copy the solutions (violation of Coursera Honor Code) presented here.
 
